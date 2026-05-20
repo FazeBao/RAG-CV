@@ -30,4 +30,4 @@ To ensure the system's reliability and accuracy, we employ both qualitative and 
 * **Cross-Domain Retrieval (Outlier Handling):** Testing the system's ability to find "Banking candidates with IT skills" by explicitly filtering for the Banking domain while querying IT-specific keywords (e.g., Python, DevOps, Data pipelines) to validate the vector similarity logic.
 
 ## 5. Live Demo
-* **App Link:** [[Insert your Streamlit Community Cloud link here]](https://rag-cv-kwzlvjtv4xak9dzubmgyky.streamlit.app/)
+* **App Link:** [[RAG-CV](https://rag-cv-kwzlvjtv4xak9dzubmgyky.streamlit.app/)]

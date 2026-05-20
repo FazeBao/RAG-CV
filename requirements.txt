@@ -1,0 +1,21 @@
+# Xử lý PDF
+PyMuPDF
+pdf2image
+pytesseract
+
+# AI & RAG
+langchain
+langchain-google-genai
+langchain-chroma
+pydantic
+chromadb
+
+# Backend & UI
+fastapi
+uvicorn
+streamlit
+python-dotenv
+
+# Pinecone
+pinecone-client
+langchain-pinecone

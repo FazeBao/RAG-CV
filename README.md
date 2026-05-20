@@ -20,7 +20,8 @@ The system is modularized into four main components:
 
 ## 4. Known Limitations
 * **Empty Initial Database:** Due to file size and storage constraints on GitHub and Streamlit Community Cloud, the complete dataset and pre-built vector database cannot be hosted. As a result, the database will be completely empty when you first access the live Streamlit app.
-* **Testing the App:** To evaluate the system's capabilities, users are encouraged to manually upload a few sample CVs using the upload feature on the sidebar.
+* **Testing the App:** To evaluate the system's capabilities, users are encouraged to manually upload a few sample CVs using the upload feature on the sidebar. 
+* **Ephemeral Storage:** Streamlit Community Cloud instances go to sleep after a period of inactivity. Please note that once the application restarts or goes to sleep, any previously uploaded CVs and their generated data will be permanently deleted.
 
 ## 5. Live Demo
 * **App Link:** [[RAG-CV](https://rag-cv-kwzlvjtv4xak9dzubmgyky.streamlit.app/)]

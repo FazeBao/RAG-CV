@@ -2,6 +2,7 @@
 PyMuPDF
 pdf2image
 pytesseract
+opencv-python-headless
 
 # AI & RAG
 langchain
